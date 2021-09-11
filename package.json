@@ -1,0 +1,23 @@
+{
+	"name": "stfukyyg",
+	"version": "3.0.0",
+	"description": "An elegant way of telling kyyg to shut the fuck up",
+	"main": "stfukyyg.js",
+	"scripts": {
+		"startBot": "node stfukyyg.js"
+	},
+	"dependencies": {
+		"eris": "^0.13.2",
+		"js-yaml": "^3.14.0"
+	},
+	"repository": {
+		"url": "https://github.com/nuggex/DiscordSTFUkyyg"
+	},
+	"license": "GPL-3.0-only",
+	"keywords": [
+		"node",
+		"eris",
+		"discord",
+		"selfbot"
+	]
+}

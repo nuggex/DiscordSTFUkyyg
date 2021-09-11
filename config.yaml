@@ -1,0 +1,8 @@
+# Bot (user) token
+token: 'you api v4 request header authentication token goes here'
+
+# server id
+serverIds: ['']
+
+# channel id
+channelIds: ['']
